@@ -1,6 +1,6 @@
-# Book Exchange System
+# Book Exchange Portal
 
-The Book Exchange System is a web application developed as part of the CS F213 (Object-Oriented Programming) course project. It allows users to exchange books with each other and provides various features to manage the book exchange process.
+The Book Exchange Portal is a web application developed as part of the CS F213 (Object-Oriented Programming) course project. It allows users to exchange books with each other and provides various features to manage the book exchange process.
 
 ## Features
 
